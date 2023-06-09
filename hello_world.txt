@@ -1,2 +1,2 @@
 Testing out Git through CLI.
-It's amazing, honestly.
+It's amazing, honestly...
